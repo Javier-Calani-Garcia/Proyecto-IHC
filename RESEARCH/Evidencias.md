@@ -1,11 +1,12 @@
 # Evidencias de Investigación 
 
-**Personas Entrevistadas**
+## Personas Entrevistadas
 -Don Ramiro - Dueño de "Trajes Típicos Santa Cruz" (20 años de experiencia)
+
 -Sra. Lourdes - Madre de familia 
 
 ## Entrevista 1
-**Preguntas realizadas a Don Ramiro:**
+## Preguntas realizadas a Don Ramiro:
 ¿Cómo registras las reservas que haces en la tienda?
 ¿Qué haces cuando un cliente pide un color o talla que no tienes disponible?
 ¿Qué problemas has tenido con las reservas o la disponibilidad de los trajes?
