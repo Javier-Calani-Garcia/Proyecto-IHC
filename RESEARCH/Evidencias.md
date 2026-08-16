@@ -8,41 +8,77 @@
 ## Entrevista 1
 ## Preguntas realizadas a Don Ramiro:
 -¿Cómo registras las reservas que haces en la tienda?
+
+
 -¿Qué haces cuando un cliente pide un color o talla que no tienes disponible?
+
+
 -¿Qué problemas has tenido con las reservas o la disponibilidad de los trajes?
+
+
 -¿Qué problemas has tenido con el inventario o las piezas de los trajes?
+
+
 -¿Cómo manejas las devoluciones y el estado de los trajes?
+
+
 -¿Qué harías si un cliente no devuelve el traje a tiempo?
 
 ## Conversación 1:
 
 **Entrevistador:** ¿Cómo registras las reservas que haces en la tienda? 
+
 -**Dueño:** Todo lo anoto en mi cuaderno, ahí pongo el nombre del cliente, su numero de celular, la garantia, la fecha del evento y qué traje se llevó, con eso me manejo hace años.
+
 -**Entrevistador:** Don Ramiro, ¿qué hace cuando un cliente le pide un color o talla que no tiene disponible?
+
 -**Dueño:** Bueno, los trajes típicos no se consiguen así nomás, sobre todo los de caporal que son los más pedidos. Cuando un cliente me pide algo que no tengo, primero le ofrezco opciones parecidas.
 **Entrevistador:** ¿Cómo hace eso?
+
 **Dueño:** Por ejemplo, si me piden un traje de caporal rojo talla L y no tengo, les digo: "señor, tengo el mismo diseño pero en azul" o "tengo rojo pero en talla M, ¿le quedaría a su hijo?". Muchas veces aceptan el cambio. Otras veces, se van y buscan en otra tienda.
 
+
+
 **Entrevistador:** Don Ramiro, ¿qué problemas concretos ha tenido con las reservas o la disponibilidad de los trajes?
+
 **Dueño:** El principal considero que son las dobles reservas. Como anoto en mi cuaderno, a veces por lo apurado no veo que ya alguien reservó ese traje para esa fecha. El mes pasado, dos clientes reservaron el mismo traje de caporal plateado para colegio, y cuando se dieron cuenta, se enojaron mucho conmigo.
 
+
+
 **Entrevistador:** ¿Qué problemas has tenido con el inventario o las piezas de los trajes? 
+
 **Dueño:** Los trajes típicos tienen hartas piezas, el sombrero, la máscara, los guantes, el cinturón, las aspargatas, y a veces un cliente no quiere llevarse todo, entonces tengo que ajustar el precio ahí mismo a mano y a veces me confundo.
 
+
+
 **Entrevistador:** ¿Cómo manejas las devoluciones y el estado de los trajes? 
+
 **Dueño:** Reviso el traje cuando lo devuelven, pero si estoy con más gente esperando, a veces no reviso bien y marco en en mi cuaderno al lado del nombre del cliente: "devuelto", y después me doy cuenta que falta algo o está manchado.
 
+
+
 **Entrevistador:** Don Ramiro, para terminar, ¿qué haría si un cliente no devuelve el traje a tiempo y usted tiene otra reserva?
+
 **Dueño:** Eso es lo peor, y sabe que me pasó una vez con un traje de caporal que alquilé para una presentación y el cliente no lo devolvió a tiempo. Tuve que estar llamé y llame al cliente para que lo devuelva.
 
 
 ## Entrvista 2
 **Preguntas realizadas a Sra. Lourdes:**
 ¿Cómo fue tu experiencia buscando el vestido de 15 para tu hija?
+
+
 ¿Qué harías si el traje que reservaste no estaba listo para el día del evento?
+
+
 Cuando no tenían su talla o color, ¿qué te ofreció el vendedor?
+
+
 ¿Con cuánta anticipación buscaron el vestido antes de la fiesta?
+
+
 ¿Alguna vez pediste un descuento para el traje? ¿Cómo te fue?
+
+
 
 ## Conversación 2:
 
