@@ -64,21 +64,23 @@
 **Dueño:** Eso es lo peor, y sabe que me pasó una vez con un traje de caporal que alquilé para una presentación y el cliente no lo devolvió a tiempo. Tuve que estar llamé y llame al cliente para que lo devuelva.
 
 
-## Entrvista 2
+## Entrevista 2
 **Preguntas realizadas a Sra. Lourdes:**
-¿Cómo fue tu experiencia buscando el vestido de 15 para tu hija?
 
 
-¿Qué harías si el traje que reservaste no estaba listo para el día del evento?
+-¿Cómo fue tu experiencia buscando el vestido de 15 para tu hija?
 
 
-Cuando no tenían su talla o color, ¿qué te ofreció el vendedor?
+-¿Qué harías si el traje que reservaste no estaba listo para el día del evento?
 
 
-¿Con cuánta anticipación buscaron el vestido antes de la fiesta?
+-Cuando no tenían su talla o color, ¿qué te ofreció el vendedor?
 
 
-¿Alguna vez pediste un descuento para el traje? ¿Cómo te fue?
+-¿Con cuánta anticipación buscaron el vestido antes de la fiesta?
+
+
+-¿Alguna vez pediste un descuento para el traje? ¿Cómo te fue?
 
 
 
