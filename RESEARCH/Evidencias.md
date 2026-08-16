@@ -1,11 +1,22 @@
 # Evidencias de Investigación 
 
-## Personas Entrevistadas
+## Usuario
+## ¿A quién necesitamos escuchar u observar?
+Necesitamos escuchar a dos perfiles clave del problema: un dueño de tienda de trajes (maneja inventario complejo, múltiples piezas y reservas), y una una madre de familia que representa al cliente, bajo la expectativa de encontrar el traje que busca.
+
+## Tarea
+## ¿Qué acción concreta queremos comprender? 
+Queremos comprender cómo se gestiona una reserva de principio a fin desde que el cliente pide un traje hasta que lo devuelve y en qué puntos concretos falla el proceso actual (registro manual, sustitución de tallas/colores, descuentos, devoluciones), para confirmar si nuestra Hipótesis Revisada responde al problema real.
+
+## Método
+Conversación breve, registrando las respuestas.
+## Muestra
+## 2 Personas Entrevistadas:
 -Don Ramiro - Dueño de "Trajes Típicos Santa Cruz" (20 años de experiencia)
 
 -Sra. Lourdes - Madre de familia 
 
-## Entrevista 1
+## Evidencia 1
 ## Preguntas realizadas a Don Ramiro:
 
 
@@ -21,17 +32,14 @@
 -¿Qué problemas has tenido con el inventario o las piezas de los trajes?
 
 
--¿Cómo manejas las devoluciones y el estado de los trajes?
+-¿Cómo manejas las devoluciones y el estado de los trajes, y qué haces si un cliente no devuelve a tiempo?
 
-
--¿Qué harías si un cliente no devuelve el traje a tiempo?
 
 ## Conversación 1:
 
 **Entrevistador:** ¿Cómo registras las reservas que haces en la tienda? 
 
 -**Dueño:** Todo lo anoto en mi cuaderno, ahí pongo el nombre del cliente, su numero de celular, la garantia, la fecha del evento y qué traje se llevó, con eso me manejo hace años.
--**Dueño:** Todo lo anoto en mi cuaderno, ahí pongo el nombre del cliente, su número de celular, la garantía, la fecha del evento y qué traje se llevó, con eso me manejo hace años.
 
 -**Entrevistador:** Don Ramiro, ¿qué hace cuando un cliente le pide un color o talla que no tiene disponible?
 
@@ -50,7 +58,7 @@
 
 **Entrevistador:** ¿Qué problemas has tenido con el inventario o las piezas de los trajes? 
 
-**Dueño:** Los trajes típicos tienen hartas piezas, el sombrero, la máscara, los guantes, el cinturón, las alpargatas, y a veces un cliente no quiere llevarse todo, entonces tengo que ajustar el precio ahí mismo a mano y a veces me confundo.
+**Dueño:** Los trajes típicos tienen hartas piezas, el sombrero, la máscara, los guantes, el cinturón, las aspargatas, y a veces un cliente no quiere llevarse todo, entonces tengo que ajustar el precio ahí mismo a mano y a veces me confundo.
 
 
 
@@ -65,7 +73,7 @@
 **Dueño:** Eso es lo peor, y sabe que me pasó una vez con un traje de caporal que alquilé para una presentación y el cliente no lo devolvió a tiempo. Tuve que estar llame y llame al cliente para que lo devuelva.
 
 
-## Entrevista 2
+## Evidencia 2
 **Preguntas realizadas a Sra. Lourdes:**
 
 
@@ -114,7 +122,24 @@
 **Clienta:** ¡Claro que pedí descuento! Una mamá siempre busca ahorrar. En dos tiendas pedí descuento y me lo dieron de palabra, pero cuando volví para hacer realizar el alquiler, la persona que me atendió esa vez no estaba y la otra no sabía nada del descuento, así que tuve que volver a explicar todo.
 
 
+## Registro – Dificultades y Sorpresas
+
+**Dificultades observadas:**
+
+-Don Ramiro pierde el control de sus reservas por estar atendiendo a varios clientes a la vez, lo que le hace revisar bien el cuaderno.
+
+-El ajuste manual del precio cuando el cliente no se lleva todas las piezas del traje es uno de los de errores de cálculo.
+
+-Las devoluciones tardías o trajes devueltos en mal estado generan un conflicto directo para la siguiente reserva.
+
+**Sorpresas (no esperadas en la Hipótesis v0.2):**
+
+-La sustitución de talla/color son ofertas en cascada (otro color → otra talla → otro diseño) antes de que la clienta desistiera.
+
+-El problema del descuento no fue solo un olvido del dueño, sino que otra persona atendió la segunda visita y no tenía el acuerdo registrado es un problema de continuidad entre empleados, no solo de memoria individual.
+
+-El traje típico se maneja por piezas (sombrero, máscara, guantes, cinturón, aspargatas) con precio variable según lo que el cliente elige.
+
 
 ## Comparación con la Hipótesis Revisada
 **✅ Confirmado:** Sí cumple porque las evidencias confirman que la doble asignación de trajes por falta de sincronización entre reservas físicas y digitales es real, documentada en ambas entrevistas. El dueño admite que su sistema manual con cuaderno genera errores al atender múltiples clientes, y la clienta valida el impacto negativo de una reserva fallida (pérdida de confianza y recomendaciones negativas). También se confirma la sustitución de colores/tallas sin stock y la pérdida de descuentos acordados de palabra. Por tanto, la hipótesis de un sistema que sincronice en tiempo real las reservas y permita al dueño registrar una reserva presencial en segundos queda totalmente respaldada.
-
