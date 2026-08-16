@@ -7,19 +7,19 @@
 
 ## Entrevista 1
 ## Preguntas realizadas a Don Ramiro:
-¿Cómo registras las reservas que haces en la tienda?
-¿Qué haces cuando un cliente pide un color o talla que no tienes disponible?
-¿Qué problemas has tenido con las reservas o la disponibilidad de los trajes?
-¿Qué problemas has tenido con el inventario o las piezas de los trajes?
-¿Cómo manejas las devoluciones y el estado de los trajes?
-¿Qué harías si un cliente no devuelve el traje a tiempo?
+-¿Cómo registras las reservas que haces en la tienda?
+-¿Qué haces cuando un cliente pide un color o talla que no tienes disponible?
+-¿Qué problemas has tenido con las reservas o la disponibilidad de los trajes?
+-¿Qué problemas has tenido con el inventario o las piezas de los trajes?
+-¿Cómo manejas las devoluciones y el estado de los trajes?
+-¿Qué harías si un cliente no devuelve el traje a tiempo?
 
 ## Conversación 1:
 
 **Entrevistador:** ¿Cómo registras las reservas que haces en la tienda? 
-**Dueño:** Todo lo anoto en mi cuaderno, ahí pongo el nombre del cliente, su numero de celular, la garantia, la fecha del evento y qué traje se llevó, con eso me manejo hace años.
-**Entrevistador:** Don Ramiro, ¿qué hace cuando un cliente le pide un color o talla que no tiene disponible?
-**Dueño:** Bueno, los trajes típicos no se consiguen así nomás, sobre todo los de caporal que son los más pedidos. Cuando un cliente me pide algo que no tengo, primero le ofrezco opciones parecidas.
+-**Dueño:** Todo lo anoto en mi cuaderno, ahí pongo el nombre del cliente, su numero de celular, la garantia, la fecha del evento y qué traje se llevó, con eso me manejo hace años.
+-**Entrevistador:** Don Ramiro, ¿qué hace cuando un cliente le pide un color o talla que no tiene disponible?
+-**Dueño:** Bueno, los trajes típicos no se consiguen así nomás, sobre todo los de caporal que son los más pedidos. Cuando un cliente me pide algo que no tengo, primero le ofrezco opciones parecidas.
 **Entrevistador:** ¿Cómo hace eso?
 **Dueño:** Por ejemplo, si me piden un traje de caporal rojo talla L y no tengo, les digo: "señor, tengo el mismo diseño pero en azul" o "tengo rojo pero en talla M, ¿le quedaría a su hijo?". Muchas veces aceptan el cambio. Otras veces, se van y buscan en otra tienda.
 
@@ -47,21 +47,31 @@ Cuando no tenían su talla o color, ¿qué te ofreció el vendedor?
 ## Conversación 2:
 
 **Entrevistador:** ¿Cómo fue tu experiencia buscando el vestido de 15 para tu hija? 
+
 **Clienta:** Fue bien estresante la verdad, recorrimos varias tiendas porque en unas no tenían la talla de mi hija y en otras el color no le gustaba o el diseño no le convencia.
 
 
+
 **Entrevistador:** ¿Qué harías si el traje que reservaste no estaba listo para el día del evento? 
+
 **Clienta:** Uy, sería un problema grande, porque la fiesta no se puede mover, ya está todo organizado con invitados y salón, así que tendría que volver para buscar otro vestido en las otras tiendas de urgencia. Y a todos mis conocidos les diria que no recomiendo este lugar porque no cumple.
 
+
+
 **Entrevistador:** Cuando no tenían su talla o color, ¿qué te ofreció el vendedor? 
+
 **Clienta:** Me ofreció otro color parecido, esa vez vez que vine con mi hija fuimos a una tienda buscando un vestido celeste con bordados plateados talla M para mi hija. No tenían. El vendedor me me dijo: "señora, tengo el mismo diseño pero en rojo". Yo le dije: "no gracias, mi hija quiere celeste". Luego me dijo: "tengo azul pero en talla L, tal vez le quede". Mi hija es delgada, la talla L le quedaría grande. Luego me ofreció otro traje completamente diferente: "mire este verde agua con bordados dorados, es más bonito", pero mi hija quería un tono específico y al final tuvimos que seguir buscando en otra tienda.
 
 
 **Entrevistador:** Sra. Lourdes ¿Con cuánta anticipación buscaron el vestido antes de la fiesta de su hija? 
+
 **Clienta:** Como un mes antes empezamos a ver, porque sabíamos que si dejábamos para última hora capaz no encontrábamos el que le gustaba a mi hija, asi que estuvimos buscando y se andubo probando.Tuvimos que buscar una que le quedara bien y que le gustara y sin tener que hacer muchos arreglos. Porque solo se tiene 15 una vez, por eso queria que vinieramos con tiempo.
 
+
 **Entrevistador:** Sra. Lourdes, para terminar, ¿alguna vez pidió un descuento para el traje? ¿Cómo le fue?
+
 **Clienta:** ¡Claro que pedí descuento! Una mamá siempre busca ahorrar. En dos tiendas pedí descuento y me lo dieron de palabra, pero cuando volví para hacer realizar el alquiler, la persona que me atendió esa vez no estaba y la otra no sabía nada del descuento, así que tuve que volver a explicar todo.
+
 
 
 ## Comparación con la Hipótesis Revisada
