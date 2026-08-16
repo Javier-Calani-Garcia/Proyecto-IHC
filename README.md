@@ -1,15 +1,15 @@
-# Proyecto IHC - Taller de Motos LA ROCA
+# Proyecto IHC - PLATAFORMA MÓVIL DE ALQUILER Y MULTICATEGORÍA DE TRAJES
 
 ## Integrantes
 - Aranibar Fernandez Carmen Jenifer
 - Calani Garcia Fernando Javier
 
 ## Tipo de Proyecto
-Plataforma Web y Móvil para la gestión de servicios y atención al cliente del Taller de Motos LA ROCA.
+Plataforma Móvil (App) para el alquiler y  multicategoría de trajes, facilitando la selección, reserva y seguimiento de pedidos.
 
 ## Modalidad de Implementación
 **Proyecto sin IA (Código Puro / Pure Coding)**
-Se eligió esta modalidad bajo el enfoque Centrado en el Usuario (DCU) para garantizar el control total de la arquitectura, seguridad y mantenimiento del sistema, adaptando cada pantalla e interacción a las necesidades del taller sin depender de código generado automáticamente.
+Proyecto desarrollado bajo el enfoque Centrado en el Usuario (DCU). La implementación se plantea con código puro, aunque esta modalidad exige mayor esfuerzo técnico, garantiza que cada pantalla e interacción responda directamente a las necesidades de clientes y administradores, sin depender de generación automática de código.
 
 ## Problema Inicial
-El taller de motos "LA ROCA" realiza la recepción de vehículos, asignación de trabajos y gestión de repuestos mediante procesos manuales y no centralizados. Esto ocasiona demoras en el servicio, desinformación del cliente sobre el avance de su reparación, falta de control en el inventario y dificultad para evaluar la productividad diaria.
+Las personas que necesitan alquilar trajes para eventos  como bodas, graduaciones, fiestas o presentaciones enfrentan dificultades: deben recorrer varias tiendas para conocer las opciones disponibles, no cuentan con un catálogo actualizado, ni disponibilidad en tiempo real, y los procesos de reserva y pago son solamente manuales. Los dueños de tiendas tampoco poseen un sistema centralizado para gestionar su inventario, fechas de devolución y estado de los trajes, lo que provoca desorganización general del negocio.
