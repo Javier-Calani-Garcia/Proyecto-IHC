@@ -7,6 +7,8 @@
 
 ## Entrevista 1
 ## Preguntas realizadas a Don Ramiro:
+
+
 -¿Cómo registras las reservas que haces en la tienda?
 
 
