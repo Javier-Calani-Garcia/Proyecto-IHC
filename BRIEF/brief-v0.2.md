@@ -14,16 +14,16 @@ Clientes a partir de 18 años que necesitan alquilar trajes para asistir o parti
 -Cuando realizan un descuento y al poco rato el cliente se va de la tienda y vuelve, se les olvida el descuento y el cliente debe hacerle acuerdo.
 
 ## Insight
-# ¿Qué aprendimos que no sabíamos al crear v0.1?
+## ¿Qué aprendimos que no sabíamos al crear v0.1?
 Aprendimos que el problema no era solo la falta de un catálogo digital accesible, sino la falta de sincronización entre las reservas físic (en tienda) y las digitales, lo que genera doble asignación de trajes. También descubrimos que los dueños pierden el control del inventario específicamente cuando atienden a más de 4 clientes a la vez, y que sustituyen colores o pierden descuentos acordados por falta de registro, afectando la confianza del cliente.
 
 ## Hipótesis Revisada
-# ¿Qué creemos ahora y qué falta comprobar?
+## ¿Qué creemos ahora y qué falta comprobar?
 Creemos que el problema no se resuelve solo con un catálogo digital, sino con un sistema que sincronice en tiempo real las reservas físicas y digitales, y que permita al dueño registrar una reserva presencial en menos de 30 segundos (sin frenar la atención al cliente que tiene enfrente). Si logramos que el dueño actualice el estado de un traje desde su celular en el momento en que lo aparta en tienda, esperamos reducir a cero los casos de doble asignación y que el cliente confíe en que la disponibilidad mostrada en la app es real.
 
 
 ## Alcance
-# Qué entra en la primera versión y qué queda fuera.
+## Qué entra en la primera versión y qué queda fuera.
 **Entra:**
 - Catálogo digital con fotos, tallas, colores y precios.
 - Reserva en línea con confirmación inmediata.
@@ -39,7 +39,7 @@ Creemos que el problema no se resuelve solo con un catálogo digital, sino con u
 - Botón de "reserva rápida presencial" para que el dueño bloquee un traje desde su celular en segundos, sin llenar un formulario largo.
 
 ## Flujo Principal
-# La tarea de inicio a fin en 3 a 7 pasos.
+## La tarea de inicio a fin en 3 a 7 pasos.
 ## Flujo Principal
 1. El cliente abre la app y filtra por categoría, talla y color.
 2. El cliente ve el catálogo con disponibilidad en tiempo real (incluyendo lo apartado en tienda).
@@ -50,19 +50,19 @@ Creemos que el problema no se resuelve solo con un catálogo digital, sino con u
 7. El cliente recoge el traje en la fecha acordada; el dueño actualiza el estado a "alquilado".
 
 ## Criterios de Éxito
-# 3 señales observables para saber si funciona.
+## 3 señales observables para saber si funciona.
 1. Cero casos de doble asignación durante el periodo de prueba (mismo traje reservado por dos clientes distintos).
 2. Al menos el 70% de los clientes completan una reserva en menos de 15 minutos desde que abren la app.
 3. El dueño registra una reserva presencial en la app en menos de 50 segundos, sin necesidad de detener la atención al cliente presente.
 
 
 ## Primer Requerimiento
-# Una capacidad concreta para diseñar o implementar.
+## Una capacidad concreta para diseñar o implementar.
 Función de "reserva rápida presencial": el dueño, desde su celular, selecciona el traje, la talla y el color, marca la fecha, y con un solo toque adicional bloquea el traje en el sistema como "reservado" sin formularios largos ni pasos intermedios para que el inventario digital refleje al instante lo que ocurre en tienda, incluso con varios clientes esperando.
 
 
 ## Preguntas Abiertas
-# Qué todavía no podemos afirmar.
+## Qué todavía no podemos afirmar.
 - ¿Los dueños usarán el celular para registrar reservas presenciales de forma consistente, o volverán a la libreta bajo presión?
 - ¿Qué pasa si el dueño no tiene señal de internet en el momento de la reserva presencial? ¿Se necesita un modo offline con sincronización posterior?
 - ¿Cómo se debe manejar la sustitución de color/talla dentro de la app se muestra como alternativa sugerida, o simplemente no se oferta si no hay stock exacto?
