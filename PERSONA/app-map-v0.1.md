@@ -1,52 +1,77 @@
 # App map v0.1
 
 ## Alcance de la primera versión
-
-La aplicación conecta la búsqueda y reserva del cliente con la gestión de inventario de la tienda. La disponibilidad debe reflejar tanto las reservas digitales como las presenciales.
+El usuario encuentra un traje específico y lo reserva para una fecha. La aplicación se enfoca en completar el ciclo de reserva digital de principio a fin.
 
 ## Estructura principal
 
 ```text
 App de alquiler de trajes
-├── Inicio / Catálogo
-│   ├── Categorías
-│   │   ├── Trajes típicos
-│   │   ├── Vestidos
-│   │   └── Trajes formales
-│   ├── Búsqueda
-│   ├── Filtros
-│   │   ├── Talla
-│   │   ├── Color
-│   │   └── Precio
-│   └── Resultados con disponibilidad actualizada
+│
+├── Inicio
+│ └── Categorías principales
+│ ├── Vestidos
+│ └── Trajes formales
+│
+├── Lista de trajes
+│ └── Resultados filtrados por categoría
+│ └── Traje específico 
+│
 ├── Detalle del traje
-│   ├── Fotos y descripción
-│   ├── Tallas y colores
-│   ├── Piezas incluidas
-│   └── Precio y descuentos
-├── Reserva
-│   ├── Fecha del evento
-│   ├── Datos del cliente
-│   ├── Confirmación
-│   └── Reserva guardada
-├── Mis reservas
-│   ├── Próximas reservas
-│   ├── Detalle y descuento acordado
-│   └── Estado: reservado / alquilado / devuelto
-└── Panel de tienda
-    ├── Inventario
-    │   ├── Disponible
-    │   ├── Reservado
-    │   ├── Alquilado
-    │   └── En mantenimiento
-    ├── Reserva rápida presencial
-    ├── Registrar piezas y descuento
-    └── Registrar devolución y estado
+│ ├── Fotos
+│ ├── Tallas disponibles
+│ └── Precio
+│
+└── Reserva
+├── Seleccionar fecha del evento
+├── Datos del cliente (nombre y teléfono)
+└── Confirmación.
 ```
+**Camino principal:**  
+`Inicio → Trajes formales → Vestido → Reservar → Confirmación`
 
 
 ## Límites del alcance
+**Entra (V1):**
 
-**Entra:** catálogo visual, filtros, disponibilidad en tiempo real, reservas digitales, registro rápido de reservas presenciales, estados del inventario, piezas incluidas, descuentos y devoluciones.
+- Navegación por 2 categorías principales
 
-**Queda fuera:** pagos en línea, facturación, notificaciones por WhatsApp o SMS, multi-tienda y recomendaciones automáticas.
+- Visualización de fotos del traje
+
+- Visualización de tallas 
+
+- Visualización de precio
+
+- Reserva con fecha del evento
+
+- Registro de datos básicos del cliente (nombre y teléfono)
+
+- Confirmación de reserva exitosa
+
+
+**Queda fuera (V1):**
+
+- Búsqueda por texto
+
+- Filtros avanzados (talla, color, precio)
+
+- Historial de "Mis reservas"
+
+- Panel de inventario para la tienda
+
+- Registro de devoluciones
+
+- Descuentos y promociones
+
+- Piezas incluidas
+
+- Pagos en línea
+
+- Facturación
+
+- Notificaciones
+
+- Multi-tienda
+
+- Recomendaciones automáticas
+

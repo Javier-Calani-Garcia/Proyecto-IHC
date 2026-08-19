@@ -18,4 +18,4 @@ Consultar un catálogo confiable desde el celular, filtrar por categoría, talla
 
 ## Frase representativa
 
-> “"Quiero que el descuento que me ofrecen no se pierda cuando vuelva a la tienda.”
+> “"Quiero asegurarme de que el traje que elegí esté disponible en la  talla y color.”
