@@ -1,11 +1,11 @@
-# Proyecto IHC - PLATAFORMA MÓVIL DE ALQUILER Y MULTICATEGORÍA DE TRAJES
+# Proyecto IHC - PLATAFORMA DE ALQUILER Y MULTICATEGORÍA DE TRAJES
 
 ## Integrantes
 - Aranibar Fernandez Carmen Jenifer
 - Calani Garcia Fernando Javier
 
 ## Tipo de Proyecto
-Plataforma Móvil (App) para el alquiler y  multicategoría de trajes, facilitando la selección, reserva y seguimiento de pedidos.
+Plataforma para el alquiler y  multicategoría de trajes, facilitando la selección, reserva y seguimiento de pedidos.
 
 ## Modalidad de Implementación
 **Proyecto sin IA (Código Puro / Pure Coding)**

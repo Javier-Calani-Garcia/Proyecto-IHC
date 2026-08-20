@@ -2,7 +2,7 @@
 
 ## Nombre y situación
 
-Lourdes, madre de familia. Busca en su celular un vestido o traje para el evento formal de su hija. Empieza la búsqueda aproximadamente un mes antes de la celebración y compara opciones en varias tiendas antes de decidir
+Lourdes, madre de familia. Busca en internet un vestido o traje para el evento formal de su hija. Empieza la búsqueda aproximadamente un mes antes de la celebración y compara opciones en varias tiendas antes de decidir
 
 ## Objetivo
 Encontrar y reservar un traje que coincida con la talla, el color y el diseño que quiere su hija, asegurándose de que esté disponible.

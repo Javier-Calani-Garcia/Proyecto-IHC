@@ -1,4 +1,4 @@
-# Brief v0.1 - PLATAFORMA MÓVIL DE ALQUILER Y MULTICATEGORÍA DE TRAJES
+# Brief v0.1 - PLATAFORMA DE ALQUILER Y MULTICATEGORÍA DE TRAJES
 ## 1. Problema
 Los clientes no encuentran fácilmente un traje adecuado para sus eventos, perdiendo tiempo al recorrer varias tiendas sin saber si encontrarán la talla o color que necesitan. No existe un sistema que muestre disponibilidad en tiempo real ni que permita reservar desde el celular. Para los dueños de tiendas, esto se traduce en inventarios desorganizados y reservas mal gestionadas.
 
@@ -12,7 +12,7 @@ El problema ocurre en ciudades como Santa Cruz de la Sierra, especialmente en te
 El usuario explora el catálogo, filtra por sus preferencias (categoría, talla, color), selecciona un traje y realiza una reserva para una fecha específica.
 
 ## 5. Idea Inicial
-Desarrollar una aplicación móvil con catálogo visual de trajes, filtros por categoría, talla, color y disponibilidad, que permita reservar en minutos desde el celular.
+Desarrollar una aplicación con catálogo visual de trajes, filtros por categoría, talla y color, que permita reservar en minutos.
 
 ## 6. Alcance 
-Catálogo digital de trajes (con fotos, tallas y precios), reserva en línea con confirmación inmediata y gestión básica de inventario(disponible / alquilado / en mantenimiento). 
+Catálogo digital de trajes (con fotos, tallas y precios), reserva en línea con confirmación inmediata. 

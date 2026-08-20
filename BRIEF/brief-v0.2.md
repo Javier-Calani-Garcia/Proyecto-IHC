@@ -1,4 +1,4 @@
-# Brief v0.2.0 – Plataforma Móvil de Alquiler y Multicategoría de Trajes
+# Brief v0.2.0 – Plataforma de Alquiler y Multicategoría de Trajes
 
 ## Problema Revisado
 ## ¿Qué dificultad se mantiene después de investigar?
@@ -28,7 +28,7 @@ Creemos que el problema no se resuelve solo con un catálogo digital, sino con u
 - Catálogo digital con fotos, tallas, colores y precios.
 - Reserva en línea con confirmación inmediata.
 - Estados de inventario: disponible / reservado / alquilado / en mantenimiento.
-- Registro de descuentos acordados asociado a la reserva (para que no se pierdan entre visitas).
+- Registro de la reserva.
 
 **Queda fuera (por ahora):**
 - Pagos en línea o pasarela de pago.
@@ -37,14 +37,16 @@ Creemos que el problema no se resuelve solo con un catálogo digital, sino con u
 - Multi-tienda o multi-sucursal (se valida primero con una tienda).
 - Recomendaciones automáticas de tallas o colores alternativos.
 - Botón de "reserva rápida presencial" para que el dueño bloquee un traje desde su celular en segundos, sin llenar un formulario largo.
+- Estados de inventario: disponible / reservado / alquilado / en mantenimiento.
+- Registro de descuentos acordados asociado a la reserva (para que no se pierdan entre visitas).
 
 ## Flujo Principal
 ## La tarea de inicio a fin en 3 a 7 pasos.
 ## Flujo Principal
 1. El cliente abre la app y filtra por categoría, talla y color.
-2. El cliente ve el catálogo con disponibilidad en tiempo real (incluyendo lo apartado en tienda).
+2. El cliente ve el catálogo en tiempo real.
 3. El cliente selecciona un traje, elige la fecha del evento y confirma la reserva.
-4. El sistema bloquea automáticamente el traje, envía confirmación inmediata y ofrece la opción (no obligatoria) de agendar una cita para probárselo dentro de las próximas 72 horas.
+4. El sistema envía confirmación inmediata.
 5. (Canal físico) El dueño, al recibir una reserva presencial, marca el traje como reservado desde su celular en segundos.
 6. (Si el cliente eligió probárselo) Llega a la tienda dentro del plazo, se prueba el traje y puede pedir ajustes (ej. más brillo, algún detalle); el dueño registra y realiza la modificación. (Si el cliente no eligió probárselo, o no fue) La reserva se mantiene sin cambios; el traje se entrega tal cual en la fecha establecida.
 7. El cliente recoge el traje en la fecha acordada; el dueño actualiza el estado a "alquilado".
