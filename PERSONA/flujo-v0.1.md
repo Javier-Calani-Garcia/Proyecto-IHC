@@ -1,4 +1,4 @@
-# Flujo v0.1
+# Flujo v0.1 y v0.2
 
 ## Tarea principal
 
@@ -22,4 +22,9 @@ El cliente encuentra un traje disponible, lo reserva para su evento y recibe una
 
 
 ### Pregunta pendiente
-¿Qué datos exactos necesita el administrador para gestionar la reserva? ¿Nombre, teléfono y fecha son suficientes o necesita también el correo o la dirección? Lo definiremos en la siguiente iteración.
+En esta iteración se definió que los datos necesarios para que el administrador gestione la reserva son: correo electrónico, número de celular y fecha para recogerlo (no se pidió nombre ni dirección, ya que el correo y celular ya identifican al cliente para contactarlo).
+
+**Nueva pregunta pendiente**
+
+
+Actualmente la aplicación no distingue roles: cualquier persona que abre la app puede ver y reservar como si fuera cliente, sin que exista un panel separado para el administrador o el vendedor, y las reservas se guardan solo en el navegador de cada usuario (no en una base de datos central). Falta definir: ¿qué datos y funciones le corresponden a cada rol (cliente, vendedor, administrador), y qué necesitamos (base de datos, login, permisos) para separarlos en las próximas iteraciones?
