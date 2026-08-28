@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>AtelierReserva</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+<h1>
+    <span class="x">Atelier</span>
+    <span class="y">Reserva</span>
+    <button class="Ver">Ver Reservas</button>
+</h1>  
+ 
+ <div class="cate">
+         <button id="btnVes" class="Ves">Vestidos</button>
+         <button id="btnTra" class="Tra">Trajes Formales</button>
+     </div>
+
+ <section id="ini" class="pantll">
+ <div class="Ini">
+     <div class="IniPant">
+         <h3>Encuentra tu traje <br>
+             justo para tu <br>
+             proximo evento</h3>
+         <p>Consulta disponibilidad real y reserva tu <br>
+            talla y color desde tu aparato electronico</p>
+     </div>
+     <img id="imGr" src="https://static.vecteezy.com/system/resources/previews/035/709/057/non_2x/ai-generated-fashionable-red-and-black-dresses-on-mannequins-in-studio-generative-ai-free-photo.jpeg" />
+ </div>
+ </section>
+
+     <section id="Resrv" class="rsrvs">
+        <button class="V">← Volver</button>
+        <h2>Mis Reservas</h2>
+          <div class="contResv">
+                <div id="resG"></div>
+                <p id="reVac">Todavía no tienes reservas.</p>
+          </div>
+     </section>
+
+     <section id="Ves" class="Ves">
+        <button class="V">← Volver</button>
+        
+        <h2>Vestidos</h2>
+        <div class="prds">
+            <article class="prod" data-nombre="Vestido Celeste" data-precio="Bs 250 / evento" data-color="Celeste">
+                <img src="https://tse3.mm.bing.net/th/id/OIP.2cODpm5KalQcdVsp1UNQSwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3.jpeg">
+                <h3>Vestido Celeste </h3>
+            </article>
+            <article class="prod" data-nombre="Vestido Rosa" data-precio="Bs 280 / evento" data-color="Rosa palo">
+                <img src="https://98ffc7be59e62c02c07b-00e6db759dce5b302229597edfd873f8.ssl.cf2.rackcdn.com/product-hugerect-1297573-345642-1510896497-bb7d9911af0e6a9df5e196a947854944" alt="Vestido Rosa Palo Encaje">
+                <h3>Vestido Rosa</h3>
+            </article>
+        </div>
+     </section>
+
+      <section id="traForm" class="VForm">
+        <button class="V">← Volver</button>
+        <h2>Trajes Formales</h2>
+        <div class="prds">
+            <article class="prod" data-nombre="Traje Formal Negro" data-precio="Bs 350 / evento" data-color="Negro">
+                <img src="https://product-images.therealreal.com/DAG515901_1_enlarged.jpg" alt="Traje Formal Negro">
+                <h3>Traje Formal Negro</h3>
+            </article>
+        </div>
+     </section>
+
+     <section id="D" class="detalle">
+        <button class="V">← Volver</button>
+        <img id="deIma" src="https://static.vecteezy.com/system/resources/previews/035/709/057/non_2x/ai-generated-fashionable-red-and-black-dresses-on-mannequins-in-studio-generative-ai-free-photo.jpeg" alt="Vestido seleccionado">
+        <div class="info">
+            <h2 id="DNom">Vestido</h2>
+            <h3 id="DPre">Bs 250 / evento</h3>
+            <p>TALLAS DISPONIBLES</p>
+            <div class="tallas"><button>S</button><button>M</button><button>L</button></div>
+            <p>COLOR</p>
+            <strong id="DColor">Celeste</strong>
+
+            <button class="Res">Reservar</button>
+            <form id="formRe">
+                <div class="campo">
+                    <label>Correo Electronico</label>
+                    <input id="core" type="email" placeholder="Tu correo" required>
+                </div>
+                <div class="campo">
+                    <label>Numero de Celular</label>
+                    <input id="cel" type="tel" placeholder="Tu celular" required>
+                </div>
+                <div class="campo">
+                    <label>Fecha para recogerlo</label>
+                    <input id="fe" type="date" required>
+                </div>
+                <button type="submit">Guardar</button>
+            </form>
+        </div>
+     </section>
+</body>
+</html>

@@ -1,0 +1,442 @@
+body {
+    margin: 0;
+}
+:root {
+    --space-1: 8px;
+    --space-2: 16px;
+    --space-3: 24px;
+    --space-4: 32px;
+}
+h1 {
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 20px max(15px, calc((100% - 1075px) / 2));
+     
+}
+
+.Ver {
+    margin-left: auto;
+    padding: 7px 14px;
+    color: white;
+    background: #2f2f2f;
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid #111;
+}
+ 
+.x {
+    color: rgb(248, 243, 243);
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;  
+    letter-spacing: .01em;
+}
+
+.y {
+    color: #333333;
+    font-family: 'Cormorant Garamond', serif;  
+    letter-spacing: .01em;
+    font-weight:600;
+    font-size: 30px;
+}
+
+button {
+    border-radius: 20px;
+}
+
+.Ini {
+    display: grid;
+    grid-template-columns: 1fr 1.30fr;
+    gap: 50px;
+    align-items: stretch;
+    width: calc(100% - 60px);
+    max-width: 2095px;
+    height: 420px;
+    margin: 28px auto 0;
+    padding: 30px;
+    box-sizing: border-box;
+    background: #767676;
+}
+
+.IniPant {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.IniPant h3 {
+    margin: 20px 18px 0;
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.10;
+}
+
+.IniPant p {
+    margin: 27px 10px 0;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 27px;
+    line-height: 1.45;
+}
+
+#imGr {
+    display: block;
+    width: 100%;
+    height: 100%;
+    min-height: 0;
+    border-radius: 0;
+    object-fit: cover;
+}
+.cate {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px auto 28px;
+}
+
+.cate button {
+    padding: 8px clamp(12px, 4vw, 30px);
+    color: white;
+    background: #6C757D;
+    border: 0;
+    cursor: pointer;
+    font-size: clamp(16px, 3.5vw, 24px);
+}
+
+#Ves, #traForm, #D {
+    display: none;
+}
+
+#Resrv {
+    display: none;
+    min-height: calc(100vh - 65px);
+    box-sizing: border-box;
+    padding: 18px 8%;
+    background: white;
+}
+
+#Resrv h2 {
+    margin: -28px 0 20px;
+    text-align: center;
+    font: 32px Arial, sans-serif;
+}
+
+.contResv {
+    width: 100%;
+    max-width: 1128px;
+    min-height: 365px;
+    box-sizing: border-box;
+    margin: 20px auto 0;
+    padding: 40px 8%;
+    background: #b3b3b3;
+}
+
+#Ves, #traForm {
+    min-height: calc(100vh - 65px);
+    box-sizing: border-box;
+    max-width: none;
+    padding: 18px 4.5%;
+    background: white;
+}
+
+.pantll {
+    display: none;
+}
+
+#ini {
+    display: block;
+}
+
+.VForm {
+    max-width: 1075px;
+    margin: 20px auto;
+}
+
+.VForm h2, #Ves h2, #traForm h2 {
+    text-align: center;
+    display: block;
+    margin-top: -50px;
+    margin-bottom: 20px;
+    font-family: Georgia, serif;
+    font-size: 36px;
+    width: 100%;
+}
+
+.V {
+    padding: 10px 20px;
+    color: white;
+    background: #767676;
+    font-size: 18px;
+    border: 0;
+    cursor: pointer;
+}
+
+.prds {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+}
+
+.prod {
+    overflow: hidden;
+    background: #E6E6E6;
+    border: 2px solid #111;
+    border-radius: 14px;
+    padding: 16px;
+    cursor: pointer;
+}
+
+.prod img {
+    width: 100%;
+    height: 330px;
+    margin: 0;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.prod h3 {
+    display: block;
+    position: static;
+    width: auto;
+    margin: 14px 16px;
+    color: #111;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+.detalle {
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    max-width: 1075px;
+    margin: 10px auto;
+}
+
+.detalle > .V {
+    grid-column: 1 / -1;
+    justify-self: start;
+}
+
+#deIma {
+    width: 100%;
+    height: 520px;
+    margin: 0;
+    padding: 16px;
+    box-sizing: border-box;
+    background: #E6E6E6;
+    border-radius: 18px;
+    object-fit: contain;
+    border: 2px solid #111;
+}
+
+.info h2 {
+    margin: 0 0 var(--space-2);
+    font: 36px Georgia, serif;
+}
+
+.info h3 {
+    position: static;
+    width: auto;
+    color: #1A1A1A;
+    font: 24px Arial, sans-serif;
+    margin-bottom: var(--space-2);
+}
+
+.info p {
+    margin-top: var(--space-2);
+    margin-bottom: var(--space-1);
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
+
+.info strong,
+#formRe label {
+    font-family: Arial, sans-serif;
+}
+
+.tallas button {
+    width: 44px;
+    height: 44px;
+    margin-right: var(--space-1);
+    background: transparent;
+    border: 2px solid #1A1A1A;
+}
+
+.tallas button:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.tallas {
+    margin-bottom: var(--space-3);
+}
+
+.Res {
+    display: block;
+    width: 100%;
+    margin-top: var(--space-4);
+    padding: 16px;
+    color: white;
+    background: #5A5A5A;
+    font-weight: bold;
+}
+
+#resG {
+    display: none;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 14px;
+    background: #f1f1f1;
+    line-height: 1.8;
+}
+
+.reserva-item + .reserva-item {
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 2px solid #b3b3b3;
+}
+
+#resG strong {
+    font: 24px Arial, sans-serif;
+}
+
+#Resrv #reVac {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 14px;
+    background: #f1f1f1;
+}
+
+#formRe {
+    display: none;
+    flex-direction: column;
+    gap: var(--space-2);
+    margin-top: var(--space-3);
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+}
+
+#formRe input {
+    padding: 11px;
+    border: 1px solid #000000;
+}
+
+#formRe button[type="submit"] {
+    margin-top: var(--space-4);
+    padding: 11px;
+    border: 1px solid #000000;
+    color: white;
+    background: #5A5A5A;
+    cursor: pointer;
+}
+
+.tallas button.elegida {
+  
+    color: white;
+    background: #8E8E93;
+}
+
+@media (max-width: 800px) {
+    #ini {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .cate {
+        order: 1;
+        margin: 12px auto 6px;
+    }
+
+    .Ini {
+        order: 2;
+        width: calc(100% - 20px);
+        height: 263px;
+        margin: 15px auto 0;
+        padding: 15px;
+        grid-template-columns: 1.1fr 0.9fr;
+        gap: 15px;
+    }
+
+    .IniPant h3 {
+        width: auto;
+        padding-right: 0;
+        font-size: 38px;
+        line-height: .95;
+    }
+
+    .IniPant p {
+        width: auto;
+        padding-right: 0;
+        font-size: 17px;
+        line-height: 1.45;
+    }
+
+    #imGr {
+        height: 223px;
+    }
+
+    .prds,
+    .detalle {
+        grid-template-columns: 1fr;
+    }
+
+    .VForm,
+    .detalle {
+        margin: 20px 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .cate {
+        width: calc(100% - 20px);
+        flex-wrap: wrap;
+    }
+
+    .cate button {
+        flex: 1 1 140px;
+    }
+
+    .Ini {
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .IniPant h3 {
+        margin: 0;
+        font-size: 32px;
+    }
+
+    .IniPant p {
+        margin: 18px 0 0;
+        font-size: 16px;
+    }
+
+    #imGr {
+        height: 200px;
+    }
+
+    .prds {
+        grid-template-columns: 1fr;
+    }
+
+    #Ves,
+    #traForm,
+    #Resrv {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .contResv {
+        padding: 25px 15px;
+    }
+}
+
